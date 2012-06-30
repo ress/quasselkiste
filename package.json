@@ -1,0 +1,19 @@
+{
+  "author": "Christian Ress <bart@github.the-bart.org>",
+  "name": "quasselkiste",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ress/quasselkiste.git"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "express": "2.x",
+    "underscore": "1.3.x"
+    },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
